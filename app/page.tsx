@@ -11,8 +11,10 @@ export default function Home() {
       <h2>Our Pathways</h2>
       {/* TODO: Add a list of the four pathways */}
       <ul>
-        <li>{/* Add pathway 1 */}</li>
-        {/* Add more pathways */}
+        <li>Robot</li>
+        <li>Website Frontend</li>
+        <li>App Frontend</li>
+        <li>App Backend</li>
       </ul>
 
       <h2>About FRC</h2>
